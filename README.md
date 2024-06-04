@@ -22,4 +22,4 @@ convolutional neural network; fault diagnosis; feature representation; informati
       publisher={Techno-Press}
     }
 
-    Online: https://www.techno-press.org/content/?page=article&journal=sss&volume=33&num=4&ordernum=1
+Online: https://www.techno-press.org/content/?page=article&journal=sss&volume=33&num=4&ordernum=1
